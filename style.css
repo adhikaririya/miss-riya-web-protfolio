@@ -123,7 +123,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: crimson;
+    color: #009496;
 }
 .navbar.sticky .menu li a:hover{
     color: #000;
